@@ -1,0 +1,7 @@
+Problem : Analyzing Impact of Attrition on the monthly income of the sales representative 
+Insights found: 1) People who have not affected by attrition has monthly income highest 5000 & 10000 respectively. 
+                2) Sales people with monthly income of 5000, 6000 & 4000 have been affected most with attrition respectively with the count of 
+                people (77,39 & 36)
+directory structure of the project : Data Loading activity with HDInsight creator on the microsoft azure platform accessing dataset from Kaggle
+                                     performing activties of data transformation & aggregation to simpligy visulization of the business problem as
+                                     attached in the GitHuB data repository
